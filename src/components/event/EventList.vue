@@ -1,0 +1,7 @@
+<template>
+  <div class="grid">
+    <div class="col-12">
+      <div class="card"></div>
+    </div>
+  </div>
+</template>
